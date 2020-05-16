@@ -10,7 +10,7 @@ function setup() {
   movingRect.debug = true;
   movingRect.velocityY = -5;
   fixedRect.velocityY = +5;
-}
+ }
 
 function draw() {
 background(0,0,0);  
